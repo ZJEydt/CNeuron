@@ -6,10 +6,9 @@ CNeuron is a simple singular neural network neuron implementation in C, designed
 
 This implementation focuses on a single neuron with functions for initialization, training, saving, loading, and processing data.
 
-```
-**PLEASE NOTE**
-This implementation utilizes Leaky Rectified Linear Unit (LeakyReLU) & Stochastic Gradient Descent with Momentum (SGDM)
-```
+The neuron utilizes Leaky Rectified Linear Unit (LeakyReLU) & Stochastic Gradient Descent with Momentum (SGDM).
+
+**Please Note**: This was a side project built out of pure curiosity as I was learning the C programming language and is only intended for educational purposes.
 
 ## Table of Contents
 
