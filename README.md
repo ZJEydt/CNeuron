@@ -1,4 +1,6 @@
-# CNeuron: Basic Singular Neural Network Neuron Implementation in C
+# CNeuron:
+
+## Basic Singular Neural Network Neuron Implementation in C
 
 CNeuron is a simple singular neural network neuron implementation in C, designed for easy integration into C projects.
 
